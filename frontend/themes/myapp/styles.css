@@ -1,0 +1,24 @@
+@import url('./main-layout.css');
+@import url('./views/dashboard-view.css');
+@import url('./views/empty-view-view.css');
+@import url('./views/master-detail-view.css');
+@import url('./views/collaborative-master-detail-view.css');
+@import url('./views/grid-with-filters-view.css');    html {
+      --lumo-primary-color: rgb(22, 83, 27);
+      --lumo-primary-color-50pct: rgba(22, 83, 27, 0.5);
+      --lumo-primary-color-10pct: rgba(22, 83, 27, 0.1);
+      --lumo-shade: rgb(35, 27, 59);
+      --lumo-shade-5pct: rgba(35, 27, 59, 0.05);
+      --lumo-shade-10pct: rgba(35, 27, 59, 0.1);
+      --lumo-shade-20pct: rgba(35, 27, 59, 0.2);
+      --lumo-shade-30pct: rgba(35, 27, 59, 0.3);
+      --lumo-shade-40pct: rgba(35, 27, 59, 0.4);
+      --lumo-shade-50pct: rgba(35, 27, 59, 0.5);
+      --lumo-shade-60pct: rgba(35, 27, 59, 0.6);
+      --lumo-shade-70pct: rgba(35, 27, 59, 0.7);
+      --lumo-shade-80pct: rgba(35, 27, 59, 0.8);
+      --lumo-shade-90pct: rgba(35, 27, 59, 0.9);
+      --lumo-primary-text-color: rgb(22, 83, 27);
+      --lumo-body-text-color: rgb(35, 27, 59);
+
+    }
